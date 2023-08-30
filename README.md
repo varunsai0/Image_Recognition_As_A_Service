@@ -1,7 +1,7 @@
 
 
 
-Web Tier URL: http://23.23.17.134:8000/
+Web Tier URL: http://23.23.17.134:8000/ //this will be the URL which runs entire day to to check for any entries.
 
 
 SQS Queue Names: request queue - 'REQUEST_QUEUE'
